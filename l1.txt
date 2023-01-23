@@ -2,3 +2,4 @@ file l1
 second line
 third line
 branch data1
+branch data2
